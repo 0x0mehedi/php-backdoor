@@ -1,1 +1,1 @@
-<?php echo shell_exec("cd api.shemrocknistworldschool.com $ls");?>
+<?php echo shell_exec("cd google $ls");?>
