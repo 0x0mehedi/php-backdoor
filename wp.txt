@@ -1,0 +1,12 @@
+python3 dirsearch.py -u https://google.com// -e html,json,php,js
+
+
+./ffuf -u https://FUZZ.google.com/  -w subdomain.txt 
+
+
+https://web.archive.org/cdx/search/cdx?url=*.https://abc.com/*&output=text&fl=original&collapse=urlkey
+
+   
+ wpscan --url https://google.tech/ --enumerate --api-token yp7d8jq907EFsdu6tSjBR95VDD5tOmllVsk9vsGZ0hE
+
+wpscan --url https://google.tech --passwords 1000-most-common-passwords.txt
